@@ -8,3 +8,7 @@ Introduction to python:
 Learn linux:
 
 [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/797f4397-d384-42a2-9827-558b7f9088ef.jpeg?v=1794617118)](https://www.boot.dev/certificates/797f4397-d384-42a2-9827-558b7f9088ef)
+
+Learn Object Oriented Programming:
+
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://api.boot.dev/v1/static/certificate/7611df48-2ace-444b-8a41-c47e4d08a851)](https://www.boot.dev/certificates/7611df48-2ace-444b-8a41-c47e4d08a851)
