@@ -12,3 +12,7 @@ Learn linux:
 Learn Git:
 
 [![Boot.dev Learn Git certificate](https://api.boot.dev/v1/static/certificate/10dd6db5-faeb-4fed-8e5d-f63095d57439)](https://www.boot.dev/certificates/10dd6db5-faeb-4fed-8e5d-f63095d57439)
+
+Learn Object Oriented Programming:
+
+[![Boot.dev Learn Object Oriented Programming in Python certificate](https://api.boot.dev/v1/static/certificate/7611df48-2ace-444b-8a41-c47e4d08a851)](https://www.boot.dev/certificates/7611df48-2ace-444b-8a41-c47e4d08a851)
